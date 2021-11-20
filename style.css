@@ -23,3 +23,19 @@
 .main-text p {
     margin:unset !important;
 }
+.center-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+/* #banner-page {
+    background-image: url(./img/news1.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+#banner-page {
+    background-color: cyan;
+}

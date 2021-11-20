@@ -5,6 +5,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
     <title>News</title>
 </head>
 
@@ -33,9 +36,8 @@
     <section id="banner">
         <div class="col-md-12 col-sm-12 col-xs-12 banner-section" id="banner-page">
             <div class="container">
-                <div class="row text-center">
+                <div class="row center-text">
                     <h1>Welcome to News@Media</h1>
-                    <br>
                     <p>That every day is a new day, and it's never too late to fix something</p>
                 </div>
             </div>
