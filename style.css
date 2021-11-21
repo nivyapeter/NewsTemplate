@@ -23,9 +23,9 @@
 .main-text p {
     margin:unset !important;
 }
-.row .center-text {
-   display: grid;
-   place-items: center; 
+.center-text {
+ display:grid;
+ place-items: center;   
 }
 #banner-page {
     background-color: cyan;
