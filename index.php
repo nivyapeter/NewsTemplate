@@ -57,8 +57,50 @@
                     <div class="col-md-4 col-sm-4 col-xs-12 news-box">
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
                     </div>
-
-                    
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
                 </div>
             </div>
         </div>
