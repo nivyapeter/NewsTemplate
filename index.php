@@ -47,7 +47,19 @@
     <section id="newsgrid">
         <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="container">
-                <div class="row">
+                <div class="row row-gap">
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <br>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+                    </div>
+                </div>
+                <div class="row row-gap">
                     <div class="col-md-4 col-sm-4 col-xs-12 news-box">
                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
                     </div>
@@ -58,50 +70,7 @@
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>
