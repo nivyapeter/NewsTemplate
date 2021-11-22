@@ -49,6 +49,7 @@
             <div class="container">
                 <div class="row row-gap">
                     <div class="col-md-4 col-sm-4 col-xs-12 news-box">
+                      <img src="">
                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
                     </div>
                     <br>
