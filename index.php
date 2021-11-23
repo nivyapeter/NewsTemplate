@@ -33,11 +33,11 @@
     </header>
     <section id="banner">
         <div class="col-md-12 col-sm-12 col-xs-12 banner-section" id="banner-page">
-            <div class="container">
-                <div class="row center-text">
+            <div class="title-container">
+                <!-- <div class="row center-text"> -->
                     <h1>Welcome to News@Media</h1>
                     <p>That every day is a new day, and it's never too late to fix something</p>
-                </div>
+                <!-- </div> -->
             </div>
 
         </div>
@@ -47,30 +47,16 @@
     <section id="newsgrid">
         <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="container">
-                <div class="row row-gap">
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                      <img src="">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <br>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                </div>
-                <div class="row row-gap">
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                    <div class="col-md-4 col-sm-4 col-xs-12 news-box">
-                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>
-                </div>
+            <?php
+for ($x = 0; $x <= 10; $x++) {
+   echo "<div class='news-box'>
+   <div>
+   <img class='news-img' src='./img/download.jpeg'>
+    </div>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
+   </div>";
+}
+?>
                 
             </div>
         </div>
