@@ -46,23 +46,45 @@
     <!-- news grid -->
     <section id="newsgrid">
         <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="container">
+            <div class="container1">
                <?php
-                    for ($x = 0; $x <= 5; $x++) {
-                    echo "<div class='news-box'>
-                    <div>
-                    <img class='news-img' src='./img/download.jpeg'>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, aliquid? Consequuntur molestiae necessitatibus, amet cumque autem architecto totam inventore aliquid.</P>
-                    </div>";
-                    }
-               ?>
+                    $servername = "localhost";
+                    $db = "newstemplate";
+                    $username = "root";
+                    $password = "Vonnue@1234#";
+                    
+                // create connection
+                    $conn = mysqli_connect($servername,$username,$password,$db);
+                    if(!$conn) {
+                        echo "not connected";
 
-            </div>
+                    } 
+                    // $db = mysql_select_db($conn,"newstemplate");
+                    $query = mysqli_query($conn,"select * from NEWS");
+                    if(!$query) {
+                        echo "invalid";
+                    }
+                    $n = mysqli_fetch_all($query);
+                    // echo count($n);
+                    for($i=0; $i < count($n); $i++) {
+                          $discription = $n[$i][2];
+                          $image = $n[$i][1];
+                    
+                        echo "<div class='news-box'>
+                          <div>
+                          <img class='news-img' src='$image'>
+                              </div>
+                              <p>$discription</P>
+                          </div>
+                          
+            ";
+                    
+                    }
+                ?>
+                
+                </div>  
         </div>
     </section>
-
-
 
 
 </body>
