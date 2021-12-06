@@ -11,16 +11,16 @@
     <!-- html form -->
  <div class="wrapper border-black-200 background-gray-300 flex justify-center background-gray-500">
     <form class="w-full max-w-lg" action="#" method="post">
-        <h1 class="text-blue-300 text-center font-20 mt-40">Data Submission Form</h1>
+        <h1 class="text-blue-300 text-center font-lg mt-40">Data Submission Form</h1>
         <div class="flex flex-wrap mb-6 justify-center">
             <div class="w-full  px-3 mb-6 ">
                 <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="title">
                    Title
                 </label>
-                <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="title" type="text">
+                <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 focus:bg-white" id="title" type="text">
                 <!-- <p class="text-red-500 text-xs italic">Please fill out this field.</p> -->
             </div>
-            <div class="w-full  px-3 mb-6 >
+            <div class="w-full  px-3 mb-6 ">
                 <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="image">
                    Image
                 </label>
