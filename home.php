@@ -14,24 +14,31 @@
         <h1 class="text-blue-300 text-center font-lg mt-40">Data Submission Form</h1>
         <div class="flex flex-wrap mb-6 justify-center">
             <div class="w-full  px-3 mb-6 ">
-                <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="title">
-                   Title
+                <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="ID">
+                   ID
                 </label>
-                <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 focus:bg-white" id="title" type="text">
+                <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 focus:bg-white" id="id" type="text">
                 <!-- <p class="text-red-500 text-xs italic">Please fill out this field.</p> -->
             </div>
             <div class="w-full  px-3 mb-6 ">
                 <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="image">
-                   Image
+                   IMAGE
                 </label>
                 <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="image" type="text">
                
             </div>
             <div class="w-full  px-3 mb-6 ">
                 <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="description">
-                   Description
+                   DESCRIPTION
                 </label>
                 <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="description" type="text">
+               
+            </div>
+            <div class="w-full  px-3 mb-6 ">
+                <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2 mt-5" for="title">
+                   TITLE
+                </label>
+                <input class="appearance-none block w-full bg-gray-200 text-gray-700 border border-red-500 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white" id="title" type="text">
                
             </div>
             
