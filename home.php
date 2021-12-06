@@ -10,7 +10,7 @@
 <body class="bg-gray-500">
     <!-- html form -->
  <div class="wrapper border-black-200 background-gray-300 flex justify-center background-gray-500">
-    <form class="w-full max-w-lg" action="#" method="post">
+    <form class="w-full max-w-lg" action="form.php" method="post">
         <h1 class="text-blue-300 text-center font-lg mt-40">Data Submission Form</h1>
         <div class="flex flex-wrap mb-6 justify-center">
             <div class="w-full  px-3 mb-6 ">
