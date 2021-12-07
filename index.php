@@ -19,7 +19,7 @@
             <nav class="nav-bar">
                 <ul class="main-nav">
                     <li class="nav-items">
-                        <a href="#">Home</a>
+                        <a href="home.php">Home</a>
                     </li>
                     <li class="nav-items">
                         <a href="#">About</a>
